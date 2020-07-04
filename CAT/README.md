@@ -1,1 +1,1 @@
-This is the folder containing codes for Computerized Adaptive Testing.
+This folder contains codes for Computerized Adaptive Testing.
